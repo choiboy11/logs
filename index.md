@@ -12,7 +12,7 @@ layout: default
 *  Qualification Matches
     *  [MVR Qualification 8](https://s3.us-east-2.amazonaws.com/badlog/mvr/MVR+Qual+8.bag.html) ([TBA](https://www.thebluealliance.com/match/2018ohmv_qm8))
     *  [MVR Qualification 18](https://s3.us-east-2.amazonaws.com/badlog/mvr/MVR+Qual+18.bag.html) ([TBA](https://www.thebluealliance.com/match/2018ohmv_qm18))
-    *  [MVR Qualification 24](https://s3.us-east-2.amazonaws.com/badlog/mvr/MVR+Qual+24.bag.html) ([TBA](https://www.thebluealliance.com/match/2018ohmv_qm24)
+    *  [MVR Qualification 24](https://s3.us-east-2.amazonaws.com/badlog/mvr/MVR+Qual+24.bag.html) ([TBA](https://www.thebluealliance.com/match/2018ohmv_qm24))
     *  [MVR Qualification 35](https://s3.us-east-2.amazonaws.com/badlog/mvr/MVR+Qual+35.bag.html) ([TBA](https://www.thebluealliance.com/match/2018ohmv_qm35))
     *  [MVR Qualification 43](https://s3.us-east-2.amazonaws.com/badlog/mvr/MVR+Qual+43.bag.html) ([TBA](https://www.thebluealliance.com/match/2018ohmv_qm43))
     *  [MVR Qualification 57](https://s3.us-east-2.amazonaws.com/badlog/mvr/MVR+Qual+57.bag.html) ([TBA](https://www.thebluealliance.com/match/2018ohmv_qm57))
