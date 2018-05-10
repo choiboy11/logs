@@ -1,5 +1,6 @@
 ---
 layout: default
+title: FRC Team 1014 Logs
 ---
 
 ## Miami Valley Regional 2018
