@@ -2,7 +2,15 @@
 layout: default
 title: FRC Team 1014 Logs
 ---
-
+## CORI 2018
+*  Practice Matches
+   *  [CORI Qualification 2](https://s3.us-east-2.amazonaws.com/badlog/cori2018/B2606D50.bag.html)
+   *  [CORI Qualification 8](https://s3.us-east-2.amazonaws.com/badlog/cori2018/5B849CE7.bag.html)
+   *  [CORI Qualification 14](https://s3.us-east-2.amazonaws.com/badlog/cori2018/978BC003.bag.html)
+   *  [CORI Qualification 18](https://s3.us-east-2.amazonaws.com/badlog/cori2018/B3813A25.bag.html)
+*  Quarter-final Matches
+   *  [CORI Quarter-final 1](https://s3.us-east-2.amazonaws.com/badlog/cori2018/41B5FDFB.bag.html)
+   *  [CORI Quarter-final 2](https://s3.us-east-2.amazonaws.com/badlog/cori2018/9C9BB041.bag.html)
 ## Miami Valley Regional 2018
 
 *  Practice Matches
